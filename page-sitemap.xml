@@ -7,6 +7,13 @@
     </url>
     
     <url>
+        <loc>https://guantaocc.github.io/hexo-blog/about/</loc>
+        <lastmod>2019-12-04T11:52:20.358Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>https://guantaocc.github.io/hexo-blog/tags/</loc>
         <lastmod>2019-12-04T11:31:03.725Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -16,13 +23,6 @@
     <url>
         <loc>https://guantaocc.github.io/hexo-blog/archive/</loc>
         <lastmod>2019-12-04T11:31:03.609Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://guantaocc.github.io/hexo-blog/about/</loc>
-        <lastmod>2019-12-04T11:31:03.608Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>

@@ -3,17 +3,22 @@
 
     <sitemap>
         <loc>https://guantaocc.github.io/hexo-blog/post-sitemap.xml</loc>
-        <lastmod>2019-12-04T11:31:03.594Z</lastmod>
+        <lastmod>2019-12-04T12:49:17.510Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://guantaocc.github.io/hexo-blog/page-sitemap.xml</loc>
-        <lastmod>2019-12-04T11:31:03.725Z</lastmod>
+        <lastmod>2019-12-04T11:52:20.358Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://guantaocc.github.io/hexo-blog/category-sitemap.xml</loc>
+        <lastmod>2019-12-04T12:49:17.510Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://guantaocc.github.io/hexo-blog/tag-sitemap.xml</loc>
-        <lastmod>2019-12-04T11:31:03.594Z</lastmod>
+        <lastmod>2019-12-04T12:49:17.510Z</lastmod>
     </sitemap>
 
 </sitemapindex>
